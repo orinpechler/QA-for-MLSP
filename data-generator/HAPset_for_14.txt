@@ -1,0 +1,14 @@
+H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A
+H	A	A	H	A	H	A	H	A	H	A	H	A	A	H	H	A	H	A	H	A	H	A	H	A	H
+H	A	H	A	A	H	A	H	A	H	A	H	A	A	H	A	H	H	A	H	A	H	A	H	A	H
+H	A	H	A	H	A	A	H	A	H	A	H	A	A	H	A	H	A	H	H	A	H	A	H	A	H
+H	A	H	A	H	A	H	A	A	H	A	H	A	A	H	A	H	A	H	A	H	H	A	H	A	H
+H	A	H	A	H	A	H	A	H	A	A	H	A	A	H	A	H	A	H	A	H	A	H	H	A	H
+H	A	H	A	H	A	H	A	H	A	H	A	A	A	H	A	H	A	H	A	H	A	H	A	H	H
+A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H	A	H
+A	H	H	A	H	A	H	A	H	A	H	A	H	H	A	A	H	A	H	A	H	A	H	A	H	A
+A	H	A	H	H	A	H	A	H	A	H	A	H	H	A	H	A	A	H	A	H	A	H	A	H	A
+A	H	A	H	A	H	H	A	H	A	H	A	H	H	A	H	A	H	A	A	H	A	H	A	H	A
+A	H	A	H	A	H	A	H	H	A	H	A	H	H	A	H	A	H	A	H	A	A	H	A	H	A
+A	H	A	H	A	H	A	H	A	H	H	A	H	H	A	H	A	H	A	H	A	H	A	A	H	A
+A	H	A	H	A	H	A	H	A	H	A	H	H	H	A	H	A	H	A	H	A	H	A	H	A	A
