@@ -10,7 +10,7 @@ import java.io.*;
 * - Every league has the same even number of teams. So, the number of teams follow directly from the league size and number of leagues. 
 * - A club cannot consist of two teams that are part of the same league. So, every team that is part of a club, plays in a different league.
 * - The HAPsets used are complimentary and feasible HAPsets, which are given for each even league size (from 4 up to 16).
-* The data generated is outputed to the file in the format specified as in README.md (the file is chosen by the user)
+* The data generated is outputed to the file in the format specified as in README.txt (the file is chosen by the user)
 */
 public class MLSPDataGen{
 
