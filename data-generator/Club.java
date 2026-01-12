@@ -1,7 +1,5 @@
 import java.util.*;
 
-// Orin Pechler, i6297093 Maastricht University
-
 /*
  * This program creates a "Club" object which stores the club's size, capacity and teams that belong to it. 
  * An object is used as teams will be assigned to clubs randomly and the size of a club follows from that assignment.
